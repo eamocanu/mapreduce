@@ -1,4 +1,4 @@
-    name := "Shopify"
+    name := "MapReducer"
      
     version := "1.0"
      
